@@ -1,8 +1,8 @@
 class Comic {
-  int num;
-  String img;
+  int number;
+  String imageUrl;
   String title;
 
-  Comic(this.num, this.img, this.title);
+  Comic(this.number, this.imageUrl, this.title);
 
 }
